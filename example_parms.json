@@ -1,0 +1,9 @@
+{
+	"url": "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers",
+	"user":"YOUR NLC instance username",
+	"password": "YOUR NLC instance password",
+	"nlc_id":"YOUR NLC instance classifier id",
+	"test_csv_file": "YOUR Test csv file path",
+	"results_csv_file": "YOUR output results csv file",
+	"confmatrix_csv_file": "YOUR confusion matrix csv file"
+}
