@@ -19,7 +19,7 @@ If you are using a Linux system, the git, anaconda, python, and node.js pac
 
 ## Runnig the Notebooks
 * **git clone https://github.com/joe4k/wdcutils.git**
-* **Open example_parms.json in a text editor and update the parameters:
+* Open **example_parms.json** in a text editor and update the parameters:
   * NLC credentials(url, username, password)
   * classifier id of trained classifier
   * input test csv file 
@@ -29,4 +29,5 @@ If you are using a Linux system, the git, anaconda, python, and node.js pac
 * Navigate to **notebooks** directory
 * **Click NLCPerformanceEval.ipynb**
 ==> This launches the notebook for measuring performance of your trained classifier of Natural Language Classifier instance.
+* Point to example_parms.json file
 * Execute the various steps of the notebook by providing the required credentials.
