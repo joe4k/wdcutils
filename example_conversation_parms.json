@@ -1,0 +1,9 @@
+{
+	"url": "https://gateway.watsonplatform.net/conversation/api",
+	"user":"YOUR CONVERSATION instance username",
+	"password": "YOUR CONVERSATION instance password",
+	"workspace_id":"YOUR WORKSPACE id",
+	"test_csv_file": "YOUR Test csv file path",
+	"results_csv_file": "YOUR output results csv file",
+	"confmatrix_csv_file": "YOUR confusion matrix csv file"
+}
