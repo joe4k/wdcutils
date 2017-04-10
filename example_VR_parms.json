@@ -1,0 +1,8 @@
+{
+	"url": "https://gateway-a.watsonplatform.net/visual-recognition/api",
+	"apikey":"YOUR apikey for visual recognition",
+	"vr_id":"YOUR Visual Recognition custom classifier id",
+	"test_csv_file": "YOUR test csv file path ",
+	"results_csv_file": "YOUR output results csv file",
+	"confmatrix_csv_file": "YOUR output confusion matrix csv file"
+}
