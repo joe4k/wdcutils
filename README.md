@@ -5,7 +5,7 @@ This repository contains a set of Jupyter notebooks that help you in evaluating 
 To use these notebooks, you need the following:
 * A Unix-based OS (or Cygwin)
 * [Git](https://git-scm.com/downloads)
-* [python 2](https://www.python.org/downloads/)
+* [python 2](https://www.python.org/downloads/) or [python 3](https://www.python.org/downloads/)
 * [Anaconda](https://www.continuum.io/downloads) - Installing this package also installs the Jupyter notebook package, which includes iPython (now referred to as jupyter)
 * A [Bluemix](https://bluemix.net) account
 * An instance of the Watson service of interest
